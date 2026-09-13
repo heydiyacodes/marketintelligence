@@ -1,0 +1,8 @@
+*.pkl
+*.csv
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.xlsx
+*.pdf
+.env
