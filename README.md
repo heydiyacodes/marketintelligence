@@ -9,8 +9,6 @@ The project combines:
 2. **Customer churn prediction** - ML models linking competitor threat to customer behavior
 3. **Business impact quantification** - Identifying vulnerable customer segments and ARR at risk
 
-**Target audience:** Data Scientists, Analytics professionals at fintech/consulting firms (Goldman Sachs, JPMorgan, EY, PwC, Deloitte)
-
 ---
 
 ## Business Problem
